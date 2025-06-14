@@ -1,0 +1,8 @@
+python-telegram-bot==20.6
+python-binance==1.0.17
+pandas==2.0.3
+numpy==1.24.3
+TA-Lib>=0.6.4
+asyncio
+matplotlib==3.7.2
+plotly==5.15.0
