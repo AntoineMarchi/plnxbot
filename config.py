@@ -38,5 +38,5 @@ class TradingConfig:
 config = TradingConfig()
 
 # Liste des utilisateurs autorisés (à remplir avec vos chat_id)
-AUTHORIZED_USERS = [7109280390]  # Ex: [123456789, 987654321]
+AUTHORIZED_USERS = []  # Ex: [123456789, 987654321]
 # to find your Telegram ID: @get_id_bot

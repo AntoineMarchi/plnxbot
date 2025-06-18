@@ -20,7 +20,17 @@
 sudo apt update
 sudo apt install python3 python3-pip
 
+
+#Pour installer le bot il vous suffit de cloner le repo github https://github.com/AntoineMarchi/plnxbot avec la commande "git clone #ssh"
+#Une fois cloné crée un venv
+#Rentrez sur le venv: source venv/bin/activate
+#Télécharger tous les requirements du fichiers requirements.txt
+#Dans config.py rentrer votre Telegram ID: # to find your Telegram ID: @get_id_bot
+#Puis se connecter:
 For connect at Binance and Bot, execute this command:
 export TELEGRAM_BOT_TOKEN=""
 export BINANCE_API_KEY=""
 export BINANCE_SECRET_KEY=""
+#lancer le main: python ou python3 main.py
+
+#Le bot est lancé!
